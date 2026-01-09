@@ -1,0 +1,197 @@
+{
+  "pays": "Géorgie",
+  "drapeau": "🇬🇪",
+  "symbole": "🍇",
+  "titre": "Tbilissi : Évasion relaxante au cœur du Caucase",
+  "budget_total": "Environ 850 €/personne",
+  "duree": "4 jours",
+  "temps_vol": "8h30 (depuis Paris, france)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée et immersion dans la Vieille Ville",
+      "legende": "Arrivée en douceur dans la capitale géorgienne, où l'histoire et la modernité se rencontrent. Une première balade dans la Vieille Ville vous plongera immédiatement dans l'ambiance unique de Tbilissi, entre ruelles pavées et balcons ouvragés. Prenez le temps de vous imprégner de l'atmosphère avant de savourer un premier dîner local.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛬 Arrivée à Tbilissi</strong>: Atterrissage à l'aéroport international de Tbilissi (TBS) et transfert vers votre hôtel.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Check-in et rafraîchissement après le voyage.",
+        "<strong>🚶‍♂️ Balade dans le Vieux Tbilissi</strong>: Flânez dans les ruelles sinueuses, admirez les maisons colorées aux balcons sculptés et découvrez l'architecture éclectique de la vieille ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vieux Tbilissi, Tbilissi",
+          "categorie": "Quartier historique",
+          "coords": { "lat": 41.6934, "lng": 44.8015 }
+        },
+        {
+          "nom_recherche": "Rue Shardeni, Tbilissi",
+          "categorie": "Rue animée",
+          "coords": { "lat": 41.6917, "lng": 44.8073 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le décalage horaire avec Paris est de +2 heures en mai. Prévoyez un transfert aéroport-hôtel pour une arrivée sereine."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "♨️",
+      "titre": "Détente aux bains de soufre et vues panoramiques",
+      "legende": "Plongez dans les traditions millénaires de Tbilissi avec une expérience relaxante aux célèbres bains de soufre d'Abanotubani. L'après-midi, prenez de la hauteur pour admirer des vues imprenables sur la ville depuis la Forteresse de Narikala et la statue de Kartlis Deda, offrant une perspective magnifique sur la capitale géorgienne.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>♨️ Bains de soufre d'Abanotubani</strong>: Profitez d'une séance relaxante dans les eaux chaudes et curatives des bains publics ou privés, une tradition ancestrale à Tbilissi.",
+        "<strong>🚠 Montée en téléphérique à Narikala</strong>: Empruntez le téléphérique depuis Rike Park pour une ascension rapide et pittoresque vers la Forteresse de Narikala.",
+        "<strong>🏰 Exploration de la Forteresse de Narikala et Kartlis Deda</strong>: Découvrez les ruines de cette ancienne forteresse et admirez la statue emblématique de la Mère de la Géorgie, offrant des panoramas spectaculaires sur la ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Bains de soufre Abanotubani, Tbilissi",
+          "categorie": "Bains publics",
+          "coords": { "lat": 41.6874, "lng": 44.8077 }
+        },
+        {
+          "nom_recherche": "Forteresse de Narikala, Tbilissi",
+          "categorie": "Site historique",
+          "coords": { "lat": 41.6877, "lng": 44.8055 }
+        },
+        {
+          "nom_recherche": "Kartlis Deda, Tbilissi",
+          "categorie": "Monument",
+          "coords": { "lat": 41.6896, "lng": 44.8042 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🧖‍♀️",
+          "titre": "Conseil détente",
+          "texte": "Réservez un bain privé à l'avance pour une expérience plus intime et relaxante aux bains de soufre."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🌳",
+      "titre": "Nature luxuriante et panoramas urbains",
+      "legende": "Évadez-vous dans la verdure luxuriante du Jardin Botanique National, un havre de paix au cœur de la ville, idéal pour une balade douce. Terminez la journée en prenant de la hauteur avec le funiculaire pour des panoramas spectaculaires sur Tbilissi depuis le parc Mtatsminda, offrant une perspective différente de la capitale.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🌿 Visite du Jardin Botanique National de Géorgie</strong>: Promenez-vous tranquillement dans ce magnifique jardin, découvrant une grande variété de plantes et de cascades apaisantes.",
+        "<strong>🎢 Montée en funiculaire au Mont Mtatsminda</strong>: Prenez le funiculaire historique pour atteindre le parc Mtatsminda, situé au sommet de la montagne.",
+        "<strong>🏞️ Détente au Parc Mtatsminda</strong>: Profitez des vues imprenables sur Tbilissi depuis le parc, idéal pour une balade légère et quelques photos mémorables."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Jardin Botanique National de Géorgie, Tbilissi",
+          "categorie": "Jardin",
+          "coords": { "lat": 41.6841, "lng": 44.8009 }
+        },
+        {
+          "nom_recherche": "Parc Mtatsminda, Tbilissi",
+          "categorie": "Parc d'attractions et vue",
+          "coords": { "lat": 41.7009, "lng": 44.7808 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Astuce balade",
+          "texte": "Le Jardin Botanique est vaste, prévoyez de bonnes chaussures et de l'eau pour explorer ses sentiers paisibles."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🛍️",
+      "titre": "Trésors locaux et départ",
+      "legende": "Imprégnez-vous de l'ambiance locale au marché aux puces du Pont Sec, où chaque objet raconte une histoire et où vous pourrez dénicher des souvenirs uniques. Profitez d'un dernier repas géorgien pour savourer une dernière fois les saveurs locales avant de vous préparer pour le départ, emportant avec vous les souvenirs d'une ville pleine de charme et de surprises.",
+      "lieu": "Tbilissi",
+      "activites": [
+        "<strong>🛍️ Chasse aux trésors au Marché du Pont Sec</strong>: Explorez ce marché aux puces éclectique, réputé pour ses antiquités, œuvres d'art et objets insolites.",
+        "<strong>🍽️ Dernier repas géorgien</strong>: Savourez un dernier déjeuner ou dîner avec les spécialités culinaires locales.",
+        "<strong>🛫 Départ de Tbilissi</strong>: Transfert à l'aéroport pour votre vol retour vers Paris."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Marché du Pont Sec, Tbilissi",
+          "categorie": "Marché aux puces",
+          "coords": { "lat": 41.7003, "lng": 44.7995 }
+        },
+        {
+          "nom_recherche": "Avenue Roustavéli, Tbilissi",
+          "categorie": "Avenue principale",
+          "coords": { "lat": 41.7000, "lng": 44.7920 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Le marché du Pont Sec est l'endroit idéal pour trouver des cadeaux originaux et des souvenirs authentiques de Géorgie."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 218 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 65 €/pers (transferts aéroport, métro, taxis)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 240 €/pers (sur la base de 20€/repas)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 250 €/pers (3 nuits en hôtel 3* sur base double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 55 €/pers (bains de soufre, téléphérique, funiculaire, jardin botanique)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Juin", "symbole": "🌸" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "La monnaie locale est le Lari géorgien (GEL). Les cartes de crédit sont acceptées dans la plupart des établissements, mais prévoyez du liquide pour les petits commerces et marchés.", "symbole": "💳" },
+    { "titre": "Le géorgien est la langue officielle. L'anglais est parlé dans les zones touristiques. Apprendre quelques mots de base (Gamarjoba - bonjour, Madloba - merci) est toujours apprécié.", "symbole": "🗣️" },
+    { "titre": "Tbilissi est une ville sûre. Cependant, comme dans toute grande ville, restez vigilant dans les lieux très fréquentés et protégez vos effets personnels.", "symbole": "🚨" },
+    { "titre": "Le réseau de transport public (métro, bus) est efficace et économique. Les taxis sont également abordables, mais négociez le prix avant de monter ou utilisez des applications comme Bolt.", "symbole": "🚇" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "Le nom \"Tbilissi\" vient du mot géorgien \"tbili\", qui signifie \"chaud\". La légende raconte que le roi Vakhtang Ier Gorgasali a fondé la ville au 5ème siècle après avoir découvert des sources d'eau chaude lors d'une partie de chasse. Ces sources sont à l'origine des célèbres bains de soufre d'Abanotubani."
+    },
+    {
+      "symbole": "🍇",
+      "titre": "Insolite",
+      "texte": "La Géorgie est considérée comme le \"berceau du vin\", avec une tradition viticole remontant à 8 000 ans. Le pays utilise des méthodes de vinification uniques, notamment la fermentation en qvevri (grandes jarres en terre cuite enterrées), inscrites au patrimoine immatériel de l'UNESCO."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🥟",
+      "titre": "Khinkali",
+      "description": "De grosses ravioles farcies de viande épicée (porc et bœuf), de champignons ou de fromage, à manger avec les doigts en aspirant le bouillon avant de dévorer la pâte."
+    },
+    {
+      "symbole": "🧀",
+      "titre": "Khachapuri",
+      "description": "Le pain au fromage géorgien par excellence, décliné en plusieurs versions régionales. L'Adjaruli, en forme de bateau, est garni de fromage, d'un œuf et d'une noix de beurre fondante."
+    },
+    {
+      "symbole": "🍭",
+      "titre": "Churchkhela",
+      "description": "Une confiserie traditionnelle en forme de bougie, faite de noix enfilées sur un fil et trempées dans un jus de raisin épaissi avec de la farine. Un délice énergétique et naturel."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/CDG-TBS/2026-05-15/2026-05-19", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Géorgie", "url": "https://georgia.travel/", "symbole": "📘" },
+    { "legende": "Transports en commun Tbilissi", "titre": "Tbilisi Transport Company", "url": "https://ttc.com.ge/en", "symbole": "🚇" },
+    { "legende": "Météo", "titre": "Météo Tbilissi", "url": "https://www.accuweather.com/fr/ge/tbilisi/295212/weather-forecast/295212", "symbole": "🌤️" }
+  ]
+}
